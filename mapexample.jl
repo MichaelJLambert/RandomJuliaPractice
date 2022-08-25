@@ -1,0 +1,1 @@
+map(x -> x^2, 5) #lambda expression for sending x to x^2 evaluated at x=5; returns 25

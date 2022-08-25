@@ -1,0 +1,1 @@
+broadcast(+, 1, [2 2 2])  # returns arrays of length 3, namely, [3,3,3]
